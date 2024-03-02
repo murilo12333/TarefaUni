@@ -1,0 +1,11 @@
+body{
+    background-color: lightcoral;
+    color: white;
+}
+
+
+.coral{
+    width: 130px;
+    border: 10px;
+    border-color: black;
+}

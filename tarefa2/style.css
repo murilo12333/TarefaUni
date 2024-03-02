@@ -1,0 +1,101 @@
+body {
+  background-color: lightblue;
+  color: #224375;
+}
+
+.centralizado {
+  position: auto;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.ok {
+  position: relative;
+  left: 20px;
+  width: 250px;
+}
+
+a {
+  text-decoration: underline;
+  color:#224375;
+}
+.book {
+  width: 50px; /* Defina a largura desejada da imagem */
+  height: auto; /* Ajuste a altura automaticamente para manter a proporção */
+}
+
+.cab {
+  display: flex;
+  font-family: "Cedarville Cursive", cursive;
+  font-size: x-large;
+  align-items: center;
+}
+
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.course-options {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  
+}
+.title-cursos {
+  color: #224375;
+}
+
+.he-cursos {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+hr {
+  border-color: #224375;
+  height: 5px;
+  background-color: #224375;
+  border-radius: 25px;
+  margin: 0;
+  border-left: 100%;
+}
+
+header {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  margin: 5px;
+}
+
+form{
+  font-family: "Roboto", sans-serif;
+}
+
+h3{
+  font-family: "Roboto", sans-serif;
+}
+label{
+font-weight:bold;
+
+}
+
+
